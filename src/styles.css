@@ -1,0 +1,44 @@
+/* add your CSS here */
+.italics {
+	font-style:italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.outerborder {
+	width: 400px;
+	
+	border-style: solid;
+	border-color: #D3D3D3;
+	-webkit-box-shadow: 2px 15px 23px 1px rgba(0,0,0,0.36);
+	-moz-box-shadow: 2px 15px 23px 1px rgba(0,0,0,0.36);
+	box-shadow: 2px 15px 23px 1px rgba(0,0,0,0.36);
+	border-width: 2px;
+
+}
+
+.informationborder {
+	width: 280px;
+	border-style: solid;
+	border-color: #D3D3D3;
+	padding: 10px;
+	text-align: left;
+	border-width: 2px;
+	margin: 30px;
+}
+
+.imageborder {
+	width: 300px;
+	margin: 20px;
+	text-align: left;
+}
+
+img {
+	width: 100%;
+}
+
+ul {
+	list-style: none;
+}
